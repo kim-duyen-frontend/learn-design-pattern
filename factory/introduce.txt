@@ -1,0 +1,3 @@
+Mục đích:
+- Khởi tạo object riêng của mỗi loại. Mỗi loại object riêng có các điểm giống nhau và khác nhau, những đặc điểm giống nhau sẽ ở class cha, còn lại các điểm khác nhau nằm ở mỗi class con. Các class con kế thừa class cha.
+- Quyết định class con nào được khởi tạo theo object của riêng nó.
