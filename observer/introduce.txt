@@ -1,0 +1,2 @@
+Mục dich:
+- Tạo ra 1 mối quan hệ 1 nhiều và cung cấp mô hình bao gồm Subscribe, Unsubscribe và Notify. Nếu người dùng có trạng thái Subscribe thì sẽ nhận được dữ liệu từ Notify và lưu trữ nó. Và nếu lần sau cũng người dùng đó thay đổi trạng thái thành Unsubscribe thì lọc ra khỏi lưu trữ trước đó và đồng thời không nhận được Notify.
