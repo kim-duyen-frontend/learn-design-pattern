@@ -1,0 +1,4 @@
+Mục đích:
+Đảm bảo class có duy nhất 1 instance và có thể chạy lặp đi lặp lại nhiều lần
+Truy cập object trực tiếp mà không cần khởi tạo object.
+Tham khảo: https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
