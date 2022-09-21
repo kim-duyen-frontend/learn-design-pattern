@@ -1,4 +1,4 @@
-Mục dich: tạo mới 1 object
-2 điểm khác biệt giữa class và function
-class có kế thừa dùng extends
-function thì không có kế thừa ==> giải pháp dùng Prototypes
+- Mục dich: tạo mới 1 hoặc nhiều object có cùng 1 constructor
+- 2 điểm khác biệt giữa class và function
+1/ class có kế thừa dùng extends
+2/ function thì không có kế thừa ==> giải pháp dùng Prototypes

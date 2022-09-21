@@ -1,0 +1,3 @@
+Mục đích:
+- Khi sử dụng hàm khởi tạo để tạo mới một object, mọi thuộc tính trong prototype đều được kế thừa cho các đối tượng mới.
+- Sao chép object ban đầu sang object mới và thay đổi giá trị một số thuộc tính nếu cần.
