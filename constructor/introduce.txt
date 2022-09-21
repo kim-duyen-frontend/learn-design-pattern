@@ -1,1 +1,4 @@
 Mục dich: tạo mới 1 object
+2 điểm khác biệt giữa class và function
+class có kế thừa dùng extends
+function thì không có kế thừa ==> giải pháp dùng Prototypes
